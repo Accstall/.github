@@ -1,42 +1,47 @@
-# 👋 Welcome to Accstall
+# Accstall
 
-**The trusted marketplace for buying verified social media accounts.**
+**Verified social accounts, instant delivery — plus open-source browser tools that never leave the tab.**
 
-🌐 [accstall.com](https://accstall.com) · 🇹🇷 [Türkçe](https://accstall.com/tr)
-
----
-
-### What We Do
-
-Accstall is a digital marketplace where you can buy premium social media accounts with **instant automated delivery**. Every account is produced in-house, quality-checked, and delivered to your dashboard within seconds.
-
-### 🛍️ Platforms We Offer
-
-| Instagram | Facebook | X (Twitter) | TikTok | Reddit | Twitch | Discord |
-|:---------:|:--------:|:-----------:|:------:|:------:|:------:|:-------:|
-| Softreg · Aged · Followers | Softreg · Aged · Followers | Softreg · Aged | Softreg · Aged | Softreg · Aged | Softreg · Aged | Softreg · Aged |
-
-### ⚡ Why Accstall?
-
-- **Instant Delivery** — Accounts delivered in seconds, not hours
-- **In-House Production** — No third-party resellers, no clawback risk
-- **Quality Verified** — Every account tested before listing
-- **Secure Payments** — Crypto (Cryptomus) and site balance
-- **24/7 Support** — Ticket system and live chat
-
-### 📂 Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [Accstall](https://github.com/Accstall/Accstall) | 🇬🇧 About Accstall — English |
-| [accstall-tr](https://github.com/Accstall/accstall-tr) | 🇹🇷 Accstall Hakkında — Türkçe |
-
-### 🔗 Links
-
-🌐 **Website:** [accstall.com](https://accstall.com)
-🐦 **Twitter:** [@accstallcom](https://x.com/accstallcom)
-📞 **Support:** [Contact Us](https://accstall.com/en/contact)
+[accstall.com](https://accstall.com) · [Türkçe](https://accstall.com/tr) · [X @accstallcom](https://x.com/accstallcom) · [Support](https://accstall.com/en/contact)
 
 ---
 
-© 2026 Accstall. All rights reserved.
+## Open source tools
+
+Static, client-only utilities. Paste stays in the browser — no upload, no storage, no inject.
+
+| Tool | What it does | Live |
+| --- | --- | --- |
+| **[2FA Generator](https://github.com/Accstall/accstall-2fa-generator)** | TOTP codes from a Base32 secret or `otpauth://` URI. SHA1 / 6 / 30 only. | [accstall.com](https://accstall.com/en/tools/2fa-generator) |
+| **[Account Line Parser](https://github.com/Accstall/accstall-account-line-parser)** | Split `field:field:…` lines, copy a column, export CSV/JSON (Bitwarden, KeePassXC, 1Password). | [accstall.com](https://accstall.com/en/tools/account-line-parser) |
+| **[Cookie Converter](https://github.com/Accstall/accstall-cookie-converter)** | Detect and convert Netscape, Playwright, AdsPower, GoLogin, and more. Conversion only. | [accstall.com](https://accstall.com/en/tools/cookie-converter) |
+
+Open `index.html` in any of the repos to run the same tool locally.
+
+---
+
+## Marketplace
+
+Accstall is a digital marketplace for premium social media accounts with **instant automated delivery**. Accounts are produced in-house, quality-checked, and sent to the dashboard in seconds.
+
+**Platforms:** Instagram · Facebook · X · TikTok · Reddit · Twitch · Discord  
+*(Softreg, aged, and follower variants where listed.)*
+
+- Instant delivery
+- In-house production — no reseller clawbacks
+- Quality-checked before listing
+- Crypto (Cryptomus) and site balance
+- 24/7 tickets and live chat
+
+---
+
+## About this org
+
+| Repo | |
+| --- | --- |
+| [Accstall](https://github.com/Accstall/Accstall) | About Accstall — English |
+| [accstall-tr](https://github.com/Accstall/accstall-tr) | Accstall hakkında — Türkçe |
+
+---
+
+© 2026 [Accstall](https://accstall.com). Tools are MIT.
